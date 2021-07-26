@@ -1,6 +1,6 @@
 # ALGORÍTOMOS DE LÓGICA DE  PROGRAMAÇÃO 1
 
-## ATIVIDADE 2                                                        52/2021
+## ATIVIDADE 1                                                       52/2021
 
 
 
