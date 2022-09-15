@@ -58,8 +58,8 @@ DICAS:
 
 Faça a modelagem das telas em um software da sua preferência, depois cole as imagens em um editor de texto (word) para enviar. Muita atenção para enviar o arquivo correto, visto que o envio poderá ser feito uma única vez e em um único arquivo! Envie no formato (.doc) ou (.pdf).
 
-## Resolução
-![Clique aqui para ver o algorítmo da atívidade](https://github.com/JuniorDaliessi/Cursos/blob/master/Analise_e_Desenvolvimento_de_Sistemas_UniCesumar_2021/4%20ALGORITMOS%20E%20L%C3%93GICA%20DE%20PROGRAMA%C3%87%C3%83O%20II/mapa/MAPA%20-%20ALGOR%C3%8DTMOS%20E%20L%C3%93GICA%20DE%20PROGRAMA%C3%87%C3%83O%20II%20-%20522021%20-%20Copia.c)
+## Resolução da atividade
+![BAIXE O PDF](https://github.com/JuniorDaliessi/Cursos/raw/master/Analise_e_Desenvolvimento_de_Sistemas_UniCesumar_2021/5%20-%20DESIGN%20DE%20INTERA%C3%87%C3%83O/mapa/d7306b363fe8a23cc17b2bbf2a13007ec4bb75412eae2dbf20ba5d1707b9e59f9b018ecc4515f8e05fa108e523d887a08475dcfbe41b2789d9f57691db25f2f2.pdf)
 
 
 
