@@ -14,8 +14,8 @@ Considerando o fragmento de texto exposto acima, analise a tela a seguir:
 
 A partir dessas informações, crie um protótipo de baixa fidelidade da tela acima em uma folha de papel (manuscrito), tire uma foto e envie a imagem em um formato (.jpg) ou mesmo (.pdf). Para enviar sua resposta utilize o template disponível no material da disciplina.
 
-## Resolução
-![Clique aqui para ver o algorítmo da atívidade](https://github.com/JuniorDaliessi/Cursos/blob/master/Analise_e_Desenvolvimento_de_Sistemas_UniCesumar_2021/4%20ALGORITMOS%20E%20L%C3%93GICA%20DE%20PROGRAMA%C3%87%C3%83O%20II/atividade%201/ATIVIDADE1.%201.c)
+## Resolução da Atividade
+![Clique aqui para ver o algorítmo da atívidade](https://github.com/JuniorDaliessi/Cursos/raw/master/Analise_e_Desenvolvimento_de_Sistemas_UniCesumar_2021/5%20-%20DESIGN%20DE%20INTERA%C3%87%C3%83O/atividade%201/a13bfb480e64b8cbcaebd5d7b5d4fcc962ad394c988b47d614590397621f26ee7c7cbb6a2764e102cde25d363631375a295c3f8ba2d776a33a5d898b48104131.pdf)
 
 
 ## Autor
